@@ -1,5 +1,9 @@
 # tml
 
+This project was created to reproduce the issue raised here https://github.com/vuejs/vue-next/issues/4800
+
+The error occurs when navigating to the route /league and clicking the >> blue button
+
 ## Project setup
 ```
 yarn install
